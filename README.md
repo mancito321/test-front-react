@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Important project and setup information 
+This project is for learning purposes. It shows the integration with a GraphQl server with Apollo Client.
+This project is intended to be working with "https://github.com/mancito321/node-gql-server" to have the right connection with the Qql.
+The URI can be configured in src>utils>index in case you need to do some changes. The default value is on localhost.
+This react is set up as a way to show the functionality with the ApolloServer, It lacks styling and more cosmetic configuration. 
+
 ## Available Scripts
 
 In the project directory, you can run:
